@@ -1466,13 +1466,13 @@ body {
     }
 
     .clock {
-        left: 20px;
+        left: 35px;
         width: 13em;
         height: 4.8em;
     }
     .set-time {
         top: 60px;
-        left: 0px;
+        left: 15px;
         width: 20em;
         height: 22.7em;
     }
@@ -1567,14 +1567,14 @@ body {
 
     .good-wish {
         top: 70px;
-        left: 0px;
+        left: 15px;
         width: 20em;
         height: 5em;
     }
 
     .good-wish-text {
         top: 16px;
-        left: 12px;
+        left: 27px;
         width: 15.1em;
         height: 1.2em;
         font-size: 1.3em;
@@ -1582,7 +1582,7 @@ body {
 
     .alarm-button {
         top: 55px;
-        left: 0px;
+        left: 15px;
         width: 8em;
         height: 3em;
     }
@@ -1602,14 +1602,14 @@ body {
     }
     .timing-container {
         top: 5px;
-        left: 132px;
+        left: 147px;
         width: 11.6em;
         height: 7.2em;
     }
 
     .timing {
         top: -103px;
-        left: 147px;
+        left: 163px;
         width: 15em;
         height: 7em;
         font-size: 12px;
@@ -1617,7 +1617,7 @@ body {
 
     .time-outer {
         top: 50px;
-        left:20px;
+        left:35px;
         width: 20em;
         height: 10em;
     }
@@ -1715,7 +1715,7 @@ body {
 
     .msg-img-container {
         top: 50px;
-        left: 0px;
+        left: 15px;
         width: 20em;
         height: 26.5em;
         overflow: hidden;
@@ -1730,7 +1730,7 @@ body {
 
     .img {
         top: 100px;
-        right: -8px;
+        left: -55px;
         width: 27em;
         height: 20.2em;
     }
